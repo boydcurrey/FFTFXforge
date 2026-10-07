@@ -1,0 +1,7 @@
+{
+  "name": "FFTFXforge",
+  "description": "Interactive frequency-domain animation and visual effects laboratory using 2D Fourier transform magnitude and phase reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
